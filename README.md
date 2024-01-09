@@ -86,6 +86,8 @@ Wait for your installation to be completed.:
 When finished you’ll see the “Completed the VMWare Workstation 17 Player Setup Wizard.”. Click “Finish”:
 <br />
 <img src="https://i.imgur.com/VUeenhz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 You’ll be prompted to restart your machine, click “Yes”: 
 <br/>
 <img src="https://i.imgur.com/ewkdeGY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
