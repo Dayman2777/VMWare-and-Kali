@@ -93,7 +93,7 @@ You’ll be prompted to restart your machine, click “Yes”:
 <br />
 After reboot you should have the “VMWare Workstation” icon. Open VMWare: 
 <br/>
-<img src="https://i.imgur.com/Yn3RSch.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Yn3RSch.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
 You’ll be asked what version you want to use. I’m using the free version so select “Use VMWare Workstation 17 Player for free for non-commercial use” and click “Continue”:
