@@ -120,7 +120,7 @@ Give it a few moments click install updates.
 <br />
 You will be prompted for a reboot, select “Yes”. If you boot up VMWare Workstation and have more updates, just follow the same steps as before.
 <br />
-<img src="https://i.imgur.com/2QNcb7a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2QNcb7a.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 When you’re completed with updates you’ll see the main screen where we can add virtual machines: 
@@ -266,7 +266,7 @@ After installation is complete you’ll be prompted to reboot, click “Continue
 Now the installation is complete, you’ll need to use the username and password created earlier:
 <br />
 <br />
-<img src="https://i.imgur.com/5itomsV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S2WzcjB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Now you should see the Kali Linux desktop. I recommend running updates, to do this pull up you CLI and type-:
